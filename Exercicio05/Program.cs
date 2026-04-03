@@ -14,3 +14,5 @@ int peso2 = Convert.ToInt32(Console.ReadLine());
 double media = ((nota1 * peso1) + (nota2 * peso2)) / (peso1 + peso2);
 
 Console.WriteLine($"A média do aluno é: {media:F2}");
+
+Console.ReadLine();
