@@ -14,3 +14,4 @@ double distancia = kmFinal - kmInicial;
 double consumo = combustivel / distancia;
 
 Console.WriteLine($"Você consumiu cerca de {consumo:F2} litros por quilômetro em sua viagem!");
+Console.ReadLine();
