@@ -1,0 +1,15 @@
+C:\Academia C#\ListaDeExercicios\Exercicio07\bin\Debug\net9.0\Exercicio07.exe
+C:\Academia C#\ListaDeExercicios\Exercicio07\bin\Debug\net9.0\Exercicio07.deps.json
+C:\Academia C#\ListaDeExercicios\Exercicio07\bin\Debug\net9.0\Exercicio07.runtimeconfig.json
+C:\Academia C#\ListaDeExercicios\Exercicio07\bin\Debug\net9.0\Exercicio07.dll
+C:\Academia C#\ListaDeExercicios\Exercicio07\bin\Debug\net9.0\Exercicio07.pdb
+C:\Academia C#\ListaDeExercicios\Exercicio07\obj\Debug\net9.0\Exercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Academia C#\ListaDeExercicios\Exercicio07\obj\Debug\net9.0\Exercicio07.AssemblyInfoInputs.cache
+C:\Academia C#\ListaDeExercicios\Exercicio07\obj\Debug\net9.0\Exercicio07.AssemblyInfo.cs
+C:\Academia C#\ListaDeExercicios\Exercicio07\obj\Debug\net9.0\Exercicio07.csproj.CoreCompileInputs.cache
+C:\Academia C#\ListaDeExercicios\Exercicio07\obj\Debug\net9.0\Exercicio07.sourcelink.json
+C:\Academia C#\ListaDeExercicios\Exercicio07\obj\Debug\net9.0\Exercicio07.dll
+C:\Academia C#\ListaDeExercicios\Exercicio07\obj\Debug\net9.0\refint\Exercicio07.dll
+C:\Academia C#\ListaDeExercicios\Exercicio07\obj\Debug\net9.0\Exercicio07.pdb
+C:\Academia C#\ListaDeExercicios\Exercicio07\obj\Debug\net9.0\Exercicio07.genruntimeconfig.cache
+C:\Academia C#\ListaDeExercicios\Exercicio07\obj\Debug\net9.0\ref\Exercicio07.dll
